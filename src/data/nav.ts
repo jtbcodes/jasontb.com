@@ -1,7 +1,7 @@
 export const nav = [
   {
-    title: 'About',
-    slug: '/about',
+    title: 'Projects',
+    slug: '/projects',
   },
   {
     title: 'Photos',
