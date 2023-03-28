@@ -1,5 +1,5 @@
 ---
-title: About Hawaii
+title: Hawaii
 date: 2023-03-14
 author: Jason
 desc: Have you ever wondered how many islands make up hawaii? How many active volcanoes are there in Hawaii? Have you thought about what time zone it is in?
